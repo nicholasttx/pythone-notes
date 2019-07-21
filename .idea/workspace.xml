@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4881e440-55fe-4bab-bd45-b85a022636ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tempFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tempFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tempFile.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tempFile.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            <state relative-caret-position="75">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -414,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tempFile.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="75">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
